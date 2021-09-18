@@ -1,0 +1,1 @@
+{"version":3,"sources":["Status.module.css"],"names":[],"mappings":"AAAA,sBACE,WAAY,CACZ,wBACF","file":"3.ad0d385c.chunk.css","sourcesContent":[".header {\r\n  grid-area: h;\r\n  background-color: aquamarine;\r\n}\r\n"]}
